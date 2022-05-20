@@ -3,7 +3,7 @@ effective query-key mechanism for image restoration
  
 Due to the novel design of the network, we successfully implement various image restoration tasks with just one network, including image deblurring, denoising and deraining. Abundant quantitative and qualitative experiments demonstrate that our proposed effective image restoration network (EIRN) outperforms existing state-of-the-art algorithms on ten datasets across a series of image restoration tasks.
 # Supplement
-We have submitted our paper to IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY (TCSVT) for review, after which we will publish our code AND three training models FOR image restoration.
+We have submitted our paper to DSP for review, after which we will publish our code AND three training models FOR image restoration.
 
 # Experiment
 ![image](https://user-images.githubusercontent.com/71067558/147733512-d09de396-3cee-4cd4-b441-4813f9b5b804.png)
