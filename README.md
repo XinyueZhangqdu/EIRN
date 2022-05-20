@@ -1,5 +1,6 @@
 # EIRN
-effective query-key mechanism for image restoration
+Focusing on Features with Higher Importance Degree:
+A Significance-Wise Mechanism for Image Restoration
  
 Due to the novel design of the network, we successfully implement various image restoration tasks with just one network, including image deblurring, denoising and deraining. Abundant quantitative and qualitative experiments demonstrate that our proposed effective image restoration network (EIRN) outperforms existing state-of-the-art algorithms on ten datasets across a series of image restoration tasks.
 # Supplement
